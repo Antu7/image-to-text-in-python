@@ -1,4 +1,4 @@
-# Webcam Face Detection With Image Capture using Python-Open-Cv
+# Simple Image To Text Converter Using python
 
 
 ## Simple Installation
